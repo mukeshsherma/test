@@ -1,2 +1,2 @@
 
-hello world from server GIT
+hello world from local host
